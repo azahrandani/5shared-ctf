@@ -4,12 +4,17 @@
     font-family: 'Cousine';
 }
 
-h1 {
-    font-weight: 1000 !important;
-}
-
 .home {
     height: 100vh;
+}
+
+.welcome-text {
+    font-size: 2.5em;
+    font-weight: 1000;
+}
+
+.typed-cursor {
+    font-size: 2.5em;
 }
 
 .welcome-intro {
@@ -19,4 +24,10 @@ h1 {
 
 .fa-heart {
     color: red;
+}
+
+.mars-fasilkom {
+    input {
+        color: blue;
+    }
 }
